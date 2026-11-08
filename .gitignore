@@ -1,2 +1,6 @@
 source/
 *.zip
+.vercel
+
+.vercel
+.env*
