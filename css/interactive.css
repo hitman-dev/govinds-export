@@ -46,7 +46,6 @@
   .categories { grid-template-columns: repeat(2, 1fr) }
   .product-row { grid-template-columns: 1fr; gap: 24px }
   .product-row:nth-child(even) .product-media { order: 0 }
-  .cert-grid { grid-template-columns: repeat(2, 1fr) }
   .industries { grid-template-columns: repeat(3, 1fr) }
   .industry:nth-child(3) { border-right: 0 }
   .trust-bar { grid-template-columns: repeat(2, 1fr) }
@@ -77,7 +76,6 @@
   .industry { border-right: 1px solid var(--border) !important; border-bottom: 1px solid var(--border) }
   .industry:nth-child(2n) { border-right: 0 !important }
   .industry:nth-last-child(-n+2) { border-bottom: 0 }
-  .cert-grid { grid-template-columns: 1fr }
   .check-list { grid-template-columns: 1fr }
   .about-image { height: 280px }
   .gallery { grid-template-columns: repeat(2, 1fr); gap: 8px }

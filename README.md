@@ -12,7 +12,6 @@ Official website of **Govinds Export**, an export company in Talegaon Dabhade, P
 - **Gallery** of 42 product photos with category filters and a full-screen viewer. You can swipe on phones and use the arrow keys on desktop.
 - **Quote form** that sends the buyer's request to WhatsApp or email with the details already filled in. It needs no server.
 - **Phone-first layout** with a slide-down menu and a floating WhatsApp button.
-- **Export documents section** for GST, IEC, RCMC and other certificates, which will be uploaded soon.
 - **No build step.** It's plain HTML, CSS and JavaScript, with no frameworks or dependencies.
 
 ## Project structure
