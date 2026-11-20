@@ -2,7 +2,7 @@
 
 Official website of **Govinds Export**, an export company in Talegaon Dabhade, Pune, India. It supplies FIBC jumbo bags, aluminium collapsible tubes, fresh cut roses and essential oils to buyers worldwide.
 
-**Live site:** https://govinds-export.vercel.app
+**Live site:** https://govindsexport.com
 
 ![Govinds Export website](docs/screenshot.jpg)
 
