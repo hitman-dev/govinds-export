@@ -3,9 +3,9 @@
   "cleanUrls": true,
   "redirects": [
     {
-      "source": "/:path*",
+      "source": "/(.*)",
       "has": [{ "type": "host", "value": "www.govindsexport.com" }],
-      "destination": "https://govindsexport.com/:path*",
+      "destination": "https://govindsexport.com/$1",
       "permanent": true
     }
   ],
