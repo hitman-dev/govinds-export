@@ -1,5 +1,5 @@
 const WHATSAPP = '917709181557';
-const EMAIL = 'info@govindsexport.com';
+const EMAIL = 'govindsexport@gmail.com';
 
 const $ = (sel, root = document) => root.querySelector(sel);
 const $$ = (sel, root = document) => [...root.querySelectorAll(sel)];

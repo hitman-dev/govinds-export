@@ -55,7 +55,7 @@ Each push to `main` then redeploys the site automatically.
 
 ## Contact
 
-📞 +91 7709181557 · ✉ info@govindsexport.com · 📍 Office No. 5, VTP Bhagyasthan, Yash Evaana Road, Talegaon Dabhade, Pune 410507
+📞 +91 7709181557 · ✉ govindsexport@gmail.com · 📍 Office No. 5, VTP Bhagyasthan, Yash Evaana Road, Talegaon Dabhade, Pune 410507
 
 ---
 
